@@ -1,0 +1,1 @@
+The application connects to a microcontroller's access point, enabling users to monitor and reset their smart chessboard. Games in PGN format can be saved to a database and later analyzed using platforms like LiChess.
