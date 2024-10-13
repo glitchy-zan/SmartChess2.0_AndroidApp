@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black_mid_light">#151515</color>
+    <color name="black_light">#333333</color>
+    <color name="gray">#aaa</color>
+    <color name="gray_dark">#c3c3c3</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="glaucous">#6082B6</color>
+    <color name="chess_board_white">#98633B</color>
+    <color name="chess_board_black">#773F1A</color>
+</resources>
